@@ -2,7 +2,7 @@
 
 <h2> My Credly badges </h2>
 <!--START_SECTION:badges-->
-![Alt text](sas-certified-specialist-base-programming-using-sas-9-4.png)
+![MarineGEO circle logo](sas-certified-specialist-base-programming-using-sas-9-4.png "MarineGEO logo")
 <!--END_SECTION:badges-->
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
