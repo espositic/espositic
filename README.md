@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc880c67-0f98-4112-9fad-3a50c03740f4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
