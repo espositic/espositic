@@ -2,7 +2,7 @@
 
 <h2> My Credly badges </h2>
 <!--START_SECTION:badges-->
-![SAS Certified Specialist: Base Programming Using SAS 9.4](sas-certified-specialist-base-programming-using-sas-9-4.png "SAS Certified Specialist: Base Programming Using SAS 9.4")
+![SAS Certified Specialist: Base Programming Using SAS 9.4](sas-certified-specialist-base-programming-using-sas-9-4.png)
 <!--END_SECTION:badges-->
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
