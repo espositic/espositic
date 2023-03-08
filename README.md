@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<h2> My Credly badges </h2>
 <!--START_SECTION:badges-->
 ![MarineGEO circle logo](sas-certified-specialist-base-programming-using-sas-9-4.png "MarineGEO logo")
 <!--END_SECTION:badges-->
