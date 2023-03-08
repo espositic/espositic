@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
-![MarineGEO circle logo](sas-certified-specialist-base-programming-using-sas-9-4.png "MarineGEO logo")
+![SAS Certified Specialist: Base Programming Using SAS 9.4](sas-certified-specialist-base-programming-using-sas-9-4.png "SAS Certified Specialist: Base Programming Using SAS 9.4")
 <!--END_SECTION:badges-->
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
