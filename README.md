@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
-![SAS Certified Specialist: Base Programming Using SAS 9.4](sas-certified-specialist-base-programming-using-sas-9-4.png "SAS Certified Specialist: Base Programming Using SAS 9.4")
+![SAS](https://www.credly.com/badges/cc880c67-0f98-4112-9fad-3a50c03740f4/public_url)
 <!--END_SECTION:badges-->
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
