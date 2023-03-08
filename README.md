@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
+[![SAS](https://images.credly.com/size/100x100/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774 "Introduction to Cybersecurity Tools & Cyber Attacks")
 <!--END_SECTION:badges-->
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
