@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2> My badges</h2>
+
 <!--START_SECTION:badges-->
 ![SAS Certified Specialist: Base Programming Using SAS 9.4](https://images.credly.com/size/100x100/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png "SAS Certified Specialist: Base Programming Using SAS 9.4")
 <!--END_SECTION:badges-->
