@@ -4,6 +4,8 @@
 
 <!--START_SECTION:badges-->
 ![SAS Certified Specialist: Base Programming Using SAS 9.4](https://images.credly.com/size/100x100/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png "SAS Certified Specialist: Base Programming Using SAS 9.4")
+![SAS Programming 2: Data Manipulation Techniques](https://images.credly.com/size/100X100/images/1150704f-fd41-468c-a6f5-2d9ed187cd37/62056_badges_EducationTraining_Learn_Programming.png "SAS Programming 2: Data Manipulation Techniques")
+![SAS Programming 1: Essentials](https://images.credly.com/size/100x100/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png "SAS Programming 1: Essentials")
 <!--END_SECTION:badges-->
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
