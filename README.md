@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![SAS badge]([https://github.com/github/docs/actions/workflows/main.yml/badge.svg](https://www.credly.com/badges/cc880c67-0f98-4112-9fad-3a50c03740f4/public_url))
+![SAS badge](https://www.credly.com/badges/cc880c67-0f98-4112-9fad-3a50c03740f4/public_url)
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
