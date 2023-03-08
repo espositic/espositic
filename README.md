@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
-[![SAS]]([http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774](https://www.credly.com/badges/cc880c67-0f98-4112-9fad-3a50c03740f4/public_url) "SAS")
+[![SAS]]([http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774](https://www.credly.com/badges/cc880c67-0f98-4112-9fad-3a50c03740f4) "SAS")
 <!--END_SECTION:badges-->
 <!--
 **espositic/espositic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
